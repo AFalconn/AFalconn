@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AFalconn/AFalconn/main/ChatGPT%20Image%20Sep%2021%2C%202026%2C%2008_53_31%20AM.png"
+    src="https://github.com/AFalconn/AFalconn/blob/main/ChatGPT%20Image%20Sep%2021%2C%202026%2C%2009_41_19%20AM.png"
     alt="AFalconn Cybersecurity Profile Banner"
     width="100%"
   >

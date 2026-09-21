@@ -23,7 +23,7 @@ I am **AMARACHI FAITH**, building my career at the intersection of **network sec
 
 My primary focus is developing as a **Network Security Analyst, Ethical Hacker, Technology Educator and Teacher**, while continuously learning, experimenting, teaching, and contributing to technology communities.
 
-I am particularly interested in using technology and cybersecurity knowledge to help people develop practical skills and participate meaningfully in the digital economy.
+I am particularly interested in using technology and cybersecurity knowledge to protect assets, help people develop practical skills and participate meaningfully in the digital economy.
 
 ---
 

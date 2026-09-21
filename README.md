@@ -232,7 +232,7 @@ My approach is simple:
 </p>
 
 <p align="center">
-  <sub>Cybersecurity • Technology • Innovation • Education • Leadership</sub>
+  <sub>Cyber Defense • Technology • Innovation • Education • Leadership</sub>
 </p>
 
 <p align="center">

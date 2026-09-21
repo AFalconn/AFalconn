@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=39FF88&center=true&vCenter=true&width=1100&lines=Cybersecurity%20Analyst%3BDirector%20of%20Training%20%40%20Webstack%20ICT%20Global%3BCommunity%20Manager%20%40%20MindTheGap%20Anambra%3BICANN%20Anti-Phishing%20Volunteer%3BArtificial%20Intelligence%20Advocate%3BLinux%20Enthusiast%3BEthical%20Hacker%20in%20Training%3BPublic%20Speaker%20and%20Tech%20Mentor%3BForex%20Trader%20%26%20Financial%20Market%20Analyst%3BEmpowering%20Africa%20Through%20Technology%20and%20Cybersecurity"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=39FF88&center=true&vCenter=true&width=1100&lines=Cybersecurity+Analyst;Network+Security+Enthusiast;Ethical+Hacker+in+Training;Technology+Educator;Linux+Enthusiast;AI+Advocate;Public+Speaker+%26+Tech+Mentor;Empowering+Africa+Through+Technology+%26+Cybersecurity"
     alt="AFalconn professional roles"
   >
 </p>

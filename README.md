@@ -209,13 +209,13 @@ My approach is simple:
   <a href="https://github.com/AFalconn">
     <img src="https://img.shields.io/badge/GitHub-AFalconn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/amarachi-faith">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:famarachi70@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-39FF88?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
   </a>
-  <a href="YOUR_X_TWITTER_URL">
+  <a href="https://x.com/amiskylakrit">
     <img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
   </a>
   <a href="YOUR_PERSONAL_WEBSITE_URL">
@@ -225,7 +225,7 @@ My approach is simple:
 
 ---
 
-## 🌍 Closing Statement
+## 🌍 BELIEVE IN YOURSELF LIKE ITS RELIGION
 
 <p align="center">
   <strong>Building practical skills. Protecting digital spaces. Educating the next generation.</strong>

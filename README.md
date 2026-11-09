@@ -19,7 +19,7 @@
 
 # AFalconn
 
-I am **AMARACHI FAITH**, building my career at the intersection of **network security, ethical hacking, technology education, and practical digital skills**.
+I am **AMARACHI FAITH IFEANYI**, building my career at the intersection of **network security, ethical hacking, technology education, and practical digital skills**.
 
 My primary focus is developing as a **Network Security Analyst, Ethical Hacker, Technology Educator and Teacher**, while continuously learning, experimenting, teaching, and contributing to technology communities.
 
